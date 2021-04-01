@@ -26,5 +26,6 @@
 
 Читать онлайн :  http://lib.zhen-ptica.org/pages/viewpage.action?pageId=918150 
 
-#### Книга 1 : загрузить в формате [EPUB](https://github.com/zhen-pai/books/raw/main/epub/6-Zhyzney-nastoyatelya-Yui-Lanya-1.epub)  [MOBI](https://github.com/zhen-pai/books/raw/main/mobi/6-Zhyzney-nastoyatelya-Yui-Lanya-1.mobi) Книга 2 : загрузить в формате [EPUB](https://github.com/zhen-pai/books/raw/main/epub/6-Zhyzney-nastoyatelya-Yui-Lanya-2.epub)  [MOBI](https://github.com/zhen-pai/books/raw/main/mobi/6-Zhyzney-nastoyatelya-Yui-Lanya-2.mobi)
+#### Книга 1 : загрузить в формате [EPUB](https://github.com/zhen-pai/books/raw/main/epub/6-Zhyzney-nastoyatelya-Yui-Lanya-1.epub)  [MOBI](https://github.com/zhen-pai/books/raw/main/mobi/6-Zhyzney-nastoyatelya-Yui-Lanya-1.mobi) 
+#### Книга 2 : загрузить в формате [EPUB](https://github.com/zhen-pai/books/raw/main/epub/6-Zhyzney-nastoyatelya-Yui-Lanya-2.epub)  [MOBI](https://github.com/zhen-pai/books/raw/main/mobi/6-Zhyzney-nastoyatelya-Yui-Lanya-2.mobi)
 
